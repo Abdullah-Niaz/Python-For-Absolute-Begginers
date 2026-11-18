@@ -1,5 +1,3 @@
-* [ ] 
-
 # Python for Absolute Beginners 🐍
 
 **A hands-on Python learning path for students who are starting from zero.**
